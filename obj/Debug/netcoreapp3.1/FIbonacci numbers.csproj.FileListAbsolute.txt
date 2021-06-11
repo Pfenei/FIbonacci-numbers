@@ -1,0 +1,13 @@
+C:\Users\cupca\source\repos\FIbonacci numbers\bin\Debug\netcoreapp3.1\FIbonacci numbers.exe
+C:\Users\cupca\source\repos\FIbonacci numbers\bin\Debug\netcoreapp3.1\FIbonacci numbers.deps.json
+C:\Users\cupca\source\repos\FIbonacci numbers\bin\Debug\netcoreapp3.1\FIbonacci numbers.runtimeconfig.json
+C:\Users\cupca\source\repos\FIbonacci numbers\bin\Debug\netcoreapp3.1\FIbonacci numbers.runtimeconfig.dev.json
+C:\Users\cupca\source\repos\FIbonacci numbers\bin\Debug\netcoreapp3.1\FIbonacci numbers.dll
+C:\Users\cupca\source\repos\FIbonacci numbers\bin\Debug\netcoreapp3.1\FIbonacci numbers.pdb
+C:\Users\cupca\source\repos\FIbonacci numbers\obj\Debug\netcoreapp3.1\FIbonacci numbers.csprojAssemblyReference.cache
+C:\Users\cupca\source\repos\FIbonacci numbers\obj\Debug\netcoreapp3.1\FIbonacci numbers.AssemblyInfoInputs.cache
+C:\Users\cupca\source\repos\FIbonacci numbers\obj\Debug\netcoreapp3.1\FIbonacci numbers.AssemblyInfo.cs
+C:\Users\cupca\source\repos\FIbonacci numbers\obj\Debug\netcoreapp3.1\FIbonacci numbers.csproj.CoreCompileInputs.cache
+C:\Users\cupca\source\repos\FIbonacci numbers\obj\Debug\netcoreapp3.1\FIbonacci numbers.dll
+C:\Users\cupca\source\repos\FIbonacci numbers\obj\Debug\netcoreapp3.1\FIbonacci numbers.pdb
+C:\Users\cupca\source\repos\FIbonacci numbers\obj\Debug\netcoreapp3.1\FIbonacci numbers.genruntimeconfig.cache
